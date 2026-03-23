@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.feadcf87.css",
+    "main.js": "/static/js/main.e3355b20.js",
+    "static/media/sofa-living-room-with-copy-space.jpg": "/static/media/sofa-living-room-with-copy-space.720ae607a3dc02444598.jpg",
+    "index.html": "/index.html",
+    "main.feadcf87.css.map": "/static/css/main.feadcf87.css.map",
+    "main.e3355b20.js.map": "/static/js/main.e3355b20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feadcf87.css",
+    "static/js/main.e3355b20.js"
+  ]
+}
